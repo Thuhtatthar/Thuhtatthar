@@ -11,12 +11,17 @@
 {
          "name": "Thailand-002",
          "url": "https://raw.githubusercontent.com/Thuhtatthar/Thuhtatthar/main/TH-2.ovpn"
+      },
+
+{
+         "name": "Thailand-003",
+         "url": "https://raw.githubusercontent.com/Thuhtatthar/Thuhtatthar/main/TH-3.ovpn"
       }
 
 
 
    ],
-"message":"15 January 2023\n\n•Version:1\n\n\n📢Owner By : Thuhtatthar 📢",
+"message":"15 January 2023\n\n•Version:2\n\n\n📢Owner By : Thuhtatthar 📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 1
+   "version": 2
 }
